@@ -1,0 +1,6 @@
+export const LOGIN_SUCCESS = 'LOGIN_SUCCESS';
+export const LOGIN_ERROR = 'LOGIN_ERROR';
+export const AUTH_LOGOUT = 'AUTH_LOGOUT';
+
+export const GET_COINS_SUCCESS = 'GET_COINS_SUCCESS';
+export const GET_COINS_ERROR = 'GET_COINS_ERROR';
